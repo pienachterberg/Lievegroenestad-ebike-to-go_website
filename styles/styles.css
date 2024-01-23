@@ -47,7 +47,7 @@ nav ul {
     padding: 1%;
 }
 
-nav ul li {
+nav ul li{
     background-color: rgb(219, 240, 240);
     margin: 3px;
     width: 80px;
@@ -71,6 +71,12 @@ ol {
     padding: 6%;
 }
 
+iframe {
+    display: block;
+    max-width: 374px;
+    max-height: 250px;
+    padding: 3%;
+}
 footer {
     position: fixed;
     bottom: 0;
