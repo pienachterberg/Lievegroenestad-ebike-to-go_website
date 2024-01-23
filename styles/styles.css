@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+p {
+    padding: 3%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+}
+
+header img {
+    width: 50vw;
+}
+
+img {
+    width: 100%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+main {
+    margin-bottom: 8em;
+}
+
+nav ul {
+    background-color: rgb(23, 123, 123);
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+nav ul li {
+    background-color: rgb(219, 240, 240);
+    margin: 3px;
+    width: 80px;
+    border: solid rgb(107, 152, 152);
+    border-radius: 3%;
+    padding: 3%;
+}
+
+nav ul li:hover {
+    background: seagreen;
+    box-shadow: blue;
+    border-bottom-color: brown;
+}
+
+ul {
+    padding: 6%;
+    list-style-type: none;
+}
+
+ol {
+    padding: 6%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+.afmeting {
+    width: 115px;
+}
+
+.hotelfiets {
+    height: 130px;
+    width: 140px;
+    padding: 10px;
+}
+
+.uitlijninglinks {
+    text-align: right;
+}
+
+.duurzaam {
+    height: 120px;
+    width: 120px;
+    padding-top: 10px;
+}
