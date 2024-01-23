@@ -8,6 +8,8 @@
 
 h1 {
     text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 h2 {
@@ -17,7 +19,7 @@ h2 {
 }
 
 p {
-    padding: 3%;
+    padding: 4%;
 }
 
 header {
@@ -68,7 +70,7 @@ ul {
 }
 
 ol {
-    padding: 6%;
+    padding: 7%;
 }
 
 iframe {
@@ -88,7 +90,10 @@ section {
 }
 
 .afmeting {
-    width: 115px;
+    width: 125px;
+    height: 115px;
+    padding-top: 7px;
+    padding-left: 7px;
 }
 
 .hotelfiets {
